@@ -1,7 +1,5 @@
 # 🌍 Ubuntu Image Fetcher
 
-> "I am because we are." – Ubuntu Philosophy 🕊️
-
 The **Ubuntu Image Fetcher** is a Python tool that connects to the global community of the internet, respectfully fetches shared image resources, and organizes them for later appreciation. Inspired by the Ubuntu principle of community 🤝, this program allows users to download images from the web and automatically display them. 🖼️
 
 ---
